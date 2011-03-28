@@ -1,0 +1,20 @@
+CachingBackend: Loading instances from cache
+Found a running session of Search, adding new instance by service.
+Error in screenlets.services.get_service_by_name: org.freedesktop.DBus.Error.ServiceUnknown: The name org.screenlets.Search was not provided by any .service files
+Screenlet has already been added to /tmp/screenlets/screenlets.jordan.running
+Loading instances in: /home/jordan/.config/Screenlets/Search/default/
+No instance(s) found in session-path, creating new one.
+/home/jordan/.config/Screenlets/Search/default/Search1
+LOAD NEW THEME: default
+FOUND: /usr/share/screenlets/Search/themes/default
+Button release
+(0, 0, 0, 0.69999999999999996)
+0.7
+/home/jordan/.screenlets/Search/themes
+Path /home/jordan/.screenlets/Search/themes not found.
+/usr/share/screenlets/Search/themes
+active theme is: default
+Changed: frame_color
+Changed: frame_color
+Button release
+Button release

@@ -1,0 +1,2 @@
+./clockkill.sh | ./slidekill.sh | ./searchkill.sh | ./sidekill.sh
+

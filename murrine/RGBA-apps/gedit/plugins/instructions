@@ -1,0 +1,11 @@
+extract this file on 
+
+~/.gnome2/gedit/plugins/gedit-rgbavisual-0.2
+
+open gedit
+
+go to --> Edit-->Preferences --> Complements
+
+activate RGBA Visual
+
+restart gedit

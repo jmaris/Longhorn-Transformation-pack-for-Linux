@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Name=DWM manager
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Exec=emerald --replace
+X-GNOME-Autostart-enabled=true
+Name[en_US]=Emerald.desktop

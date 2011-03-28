@@ -1,0 +1,40 @@
+CachingBackend: Loading instances from cache
+Found a running session of Clock, adding new instance by service.
+Error in screenlets.services.get_service_by_name: org.freedesktop.DBus.Error.ServiceUnknown: The name org.screenlets.Clock was not provided by any .service files
+Screenlet has already been added to /tmp/screenlets/screenlets.jordan.running
+Loading instances in: /home/jordan/.config/Screenlets/Clock/default/
+No instance(s) found in session-path, creating new one.
+/home/jordan/.config/Screenlets/Clock/default/Clock1
+LOAD NEW THEME: station
+FOUND: /usr/share/screenlets/Clock/themes/station
+theme.conf found! Loading option-overrides.
+theme.conf loaded: 
+Name: RYX's railway-station clock
+Author: RYX (aka Rico Pfaus)
+Version: 1.0
+Info: A typical railway-station look-alike
+OK - Clock has been initialized.
+Screenlet: Set theme cairo-clock
+LOAD NEW THEME: cairo-clock
+FOUND: /usr/share/screenlets/Clock/themes/cairo-clock
+theme.conf found! Loading option-overrides.
+theme.conf loaded: 
+Name: Cairo-Clock
+Author: Mirco "MacSlow" Mueller
+Version: 1.0
+Info: The default theme of MacSlow's legendary cairo-clock \n(the "mother" of all widget-apps)
+(0.0, 0.0, 0.0, 0.29999999999999999)
+0.3
+/home/jordan/.screenlets/Clock/themes
+Path /home/jordan/.screenlets/Clock/themes not found.
+/usr/share/screenlets/Clock/themes
+active theme is: cairo-clock
+Changed: face_text
+(0.0, 0.0, 0.0, 0.29999999999999999)
+0.3
+/home/jordan/.screenlets/Clock/themes
+Path /home/jordan/.screenlets/Clock/themes not found.
+/usr/share/screenlets/Clock/themes
+active theme is: cairo-clock
+Changed: scale
+Changed: scale

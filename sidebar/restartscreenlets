@@ -1,0 +1,1 @@
+python -u /usr/share/screenlets/Clock/ClockScreenlet.py | python -u /usr/share/screenlets/Search/SearchScreenlet.py | python -u /usr/share/screenlets/Sidebar/SidebarScreenlet.py | python -u /usr/share/screenlets/Slideshow/SlideshowScreenlet.py

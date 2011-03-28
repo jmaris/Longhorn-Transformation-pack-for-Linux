@@ -1,0 +1,86 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="size" mtime="1301244386" type="int" value="28"/>
+	<entry name="orientation" mtime="1301244386" type="string">
+		<stringvalue>bottom</stringvalue>
+	</entry>
+	<entry name="Help" mtime="1301244383" type="string">
+		<stringvalue>yelp</stringvalue>
+	</entry>
+	<entry name="Restart" mtime="1301244383" type="string">
+		<stringvalue>python -u /usr/lib/gnomenu/session-manager.py reboot</stringvalue>
+	</entry>
+	<entry name="LogoutNow" mtime="1301244383" type="string">
+		<stringvalue>gnome-session-save --logout</stringvalue>
+	</entry>
+	<entry name="MenuEditor" mtime="1301244280" type="string">
+		<stringvalue>alacarte</stringvalue>
+	</entry>
+	<entry name="System_Icons" mtime="1301244383" type="int" value="0"/>
+	<entry name="Show_Tips" mtime="1301244383" type="int" value="0"/>
+	<entry name="Shutdown" mtime="1301244383" type="string">
+		<stringvalue>python -u /usr/lib/gnomenu/session-manager.py shutdown</stringvalue>
+	</entry>
+	<entry name="User" mtime="1301244383" type="string">
+		<stringvalue>gnome-about-me</stringvalue>
+	</entry>
+	<entry name="Logout" mtime="1301244383" type="string">
+		<stringvalue>gnome-session-save --logout-dialog</stringvalue>
+	</entry>
+	<entry name="Icon_Name" mtime="1301244383" type="string">
+		<stringvalue>Newstyles</stringvalue>
+	</entry>
+	<entry name="Sound_Theme" mtime="1301244383" type="string">
+		<stringvalue>None</stringvalue>
+	</entry>
+	<entry name="Shownetandemail" mtime="1301244383" type="int" value="1"/>
+	<entry name="Lock" mtime="1301244383" type="string">
+		<stringvalue>gnome-screensaver-command --lock</stringvalue>
+	</entry>
+	<entry name="IconSize" mtime="1301244383" type="int" value="28"/>
+	<entry name="Power" mtime="1301244383" type="string">
+		<stringvalue>gnome-session-save --shutdown-dialog</stringvalue>
+	</entry>
+	<entry name="GtkColors" mtime="1301244383" type="int" value="0"/>
+	<entry name="Run" mtime="1301244383" type="string">
+		<stringvalue>python -u /usr/lib/gnomenu/Gnome_run_dialog.py</stringvalue>
+	</entry>
+	<entry name="Suspend" mtime="1301244383" type="string">
+		<stringvalue>python -u /usr/lib/gnomenu/session-manager.py suspend</stringvalue>
+	</entry>
+	<entry name="SuperL" mtime="1301244383" type="int" value="0"/>
+	<entry name="Button_Name" mtime="1301244383" type="string">
+		<stringvalue>Longhorn</stringvalue>
+	</entry>
+	<entry name="Network_Config" mtime="1301244383" type="string">
+		<stringvalue>nm-connection-editor</stringvalue>
+	</entry>
+	<entry name="Control_Panel" mtime="1301244383" type="string">
+		<stringvalue>gnome-control-center</stringvalue>
+	</entry>
+	<entry name="AdminRun" mtime="1301244383" type="string">
+		<stringvalue>gksu</stringvalue>
+	</entry>
+	<entry name="Distributor_Logo" mtime="1301244383" type="int" value="0"/>
+	<entry name="Tab_Efect" mtime="1301244383" type="int" value="1"/>
+	<entry name="Bind_Key" mtime="1301244383" type="string">
+		<stringvalue>Super_L</stringvalue>
+	</entry>
+	<entry name="Hibernate" mtime="1301244383" type="string">
+		<stringvalue>python -u /usr/lib/gnomenu/session-manager.py hibernate</stringvalue>
+	</entry>
+	<entry name="Disable_PS" mtime="1301244383" type="int" value="0"/>
+	<entry name="Menu_Name" mtime="1301244383" type="string">
+		<stringvalue>Vista</stringvalue>
+	</entry>
+	<entry name="TabHover" mtime="1301244383" type="int" value="0"/>
+	<entry name="ListSize" mtime="1301244383" type="int" value="10"/>
+	<entry name="Show_Thumb" mtime="1301244383" type="int" value="0"/>
+	<entry name="Prog_List" mtime="1301244383" type="int" value="3"/>
+	<entry name="Package_Manager" mtime="1301244383" type="string">
+		<stringvalue>gksu synaptic</stringvalue>
+	</entry>
+	<entry name="Search" mtime="1301244383" type="string">
+		<stringvalue>gnome-search-tool</stringvalue>
+	</entry>
+</gconf>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="stretch" mtime="1301239627" schema="/schemas/apps/panel/toplevels/background/stretch" type="bool" value="true"/>
+	<entry name="fit" mtime="1301239627" schema="/schemas/apps/panel/toplevels/background/fit"/>
+	<entry name="image" mtime="1301242114" schema="/schemas/apps/panel/toplevels/background/image" type="string">
+		<stringvalue>/usr/share/sidebar/taskbar.png</stringvalue>
+	</entry>
+	<entry name="color" mtime="1301239627" schema="/schemas/apps/panel/toplevels/background/color"/>
+	<entry name="type" mtime="1301241977" schema="/schemas/apps/panel/toplevels/background/type" type="string">
+		<stringvalue>image</stringvalue>
+	</entry>
+	<entry name="rotate" mtime="1301239627" schema="/schemas/apps/panel/toplevels/background/rotate"/>
+	<entry name="opacity" mtime="1301239627" schema="/schemas/apps/panel/toplevels/background/opacity"/>
+</gconf>

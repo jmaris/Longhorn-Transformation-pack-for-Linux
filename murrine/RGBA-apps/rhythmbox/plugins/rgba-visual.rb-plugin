@@ -1,0 +1,9 @@
+[RB Plugin]
+Loader=python
+Module=rgba-visual
+IAge=1
+Name=Rgba Visual
+Description=Enable RGBA Visual
+Authors=Andrea Cimitan
+Copyright=Copyright © 2008 Andrea Cimitan
+Website=http://www.cimitan.com

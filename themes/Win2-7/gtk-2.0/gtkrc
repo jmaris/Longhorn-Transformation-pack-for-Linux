@@ -1,0 +1,452 @@
+# Win2-7
+
+#gtk_color_scheme = "fg_color:#223244\nbg_color:#EEF2F6\nbase_color:#fcfcfc\ntext_color:#000\nselected_bg_color:#1E4B69\nselected_fg_color:#FCFCFC\ntooltip_bg_color:#FFFFCC\ntooltip_fg_color:#000"
+
+gtk_color_scheme = "fg_color:#000000\nbg_color:#f0f4fa\nbase_color:#FCFCFC\ntext_color:#1A1A1A\nselected_bg_color:#4B7AB4\nselected_fg_color:#FCFCFC\ntooltip_bg_color:#f1f0fa\ntooltip_fg_color:#000000"
+
+
+style "ia_ora-default"
+{
+
+    color["gray0"]= @bg_color # "#EFF3F7"
+    color["gray1"]= mix(0.5,@bg_color, "#C8D8D8") #"#DFE7EF"
+    color["gray2"]= mix(0.5,@bg_color, "#A8B8B8") #"#CFD7DF"
+    color["gray3"]= mix(0.5,@bg_color, "#90B0B8") # "#C7D3DF"
+    color["gray4"]= mix(0.5,@bg_color, "#709098") # "#B6C3CF"
+    color["gray5"]= mix(0.5,@bg_color, "#507088") # "#A6B2C7"
+    color["gray6"]= mix(0.5,@bg_color, "#183050") #"#8692A6"
+# smooth
+    color["blue0"] = mix(0.3, @selected_bg_color, "#E8F8FF") # "#cee3ff"
+    color["blue1"] = mix(0.3, @selected_bg_color, "#C0DAFF") # "#adcfff"
+    color["blue2"] = @selected_bg_color # "#7BAAE7"
+    color["blue3"] = mix(0.5, @selected_bg_color, "#396AC5" ) # "#5A8AD6"
+    color["blue4"] = mix(0.5, @selected_bg_color, "#0C50a0") # "#427dc6"
+
+    GtkNotebook::tab-overlap 		= 0  #no tab overlap; default is 2
+    GtkNotebook::tab-curvature 		= 4  #pixels between text and border
+
+
+
+
+    GtkButton::default-border         = {1, 1, 1, 1}
+    GtkWidget::interior-focus         = 1
+    GtkButton::default-spacing        = 6
+    GtkCheckButton::indicator-size    = 13
+    GtkPaned::handle-size             = 6
+
+    GtkRange::trough-border           = 0
+    GtkRange::slider-width            = 8
+    GtkRange::stepper-size            = 15
+    GtkRange::stepper-spacing         = 0
+    #GtkRange::trough-side-details     = 1
+    #GtkRange::trough_border			= 1
+    #GtkRange::slider_width			= 15
+    #GtkRange::stepper_size			= 15
+
+
+    GtkScrollbar::min-slider-length   = 20
+    GtkScrollbar::slider-width        = 15
+    GtkScrollbar::trough-side-details     = 0
+#    GtkTreeView::even-row-color       = @base_color
+#    GtkTreeView::odd-row-color        = @bg_color
+
+	GtkTreeView    ::expander-size        = 14
+	GtkTreeView    ::vertical-separator   = 1
+	GtkTreeView    ::horizontal-separator = 2
+	GtkTreeView    ::allow-rules 	      = 0 # Don't use different color for odd rows
+	GtkTreeView    ::row-ending-details   = 1 # Allow for rounded endings and transparent active rows
+
+
+
+    # Glow the tasklist by changing the color, instead of overlaying it with a rectangle
+    WnckTasklist   ::fade-overlay-rect    = 0
+
+
+    fg[NORMAL]        = @fg_color
+    fg[ACTIVE]        = @fg_color
+    fg[INSENSITIVE]   = @gray4
+    fg[PRELIGHT]      = @text_color
+    fg[SELECTED]      = @text_color
+
+    bg[NORMAL]        = @bg_color
+    bg[ACTIVE]        = @gray1
+    bg[INSENSITIVE]   = @gray2
+    bg[PRELIGHT]      = @gray1
+    bg[SELECTED]      = @selected_bg_color
+
+    base[NORMAL]      = @base_color
+    base[ACTIVE]      = @blue1
+    base[INSENSITIVE] = @bg_color
+    base[PRELIGHT]    = @base_color
+    base[SELECTED]    = @selected_bg_color
+
+    text[NORMAL]      = @text_color
+    text[ACTIVE]      = @selected_fg_color
+    text[INSENSITIVE] = @gray4
+    text[PRELIGHT]    = @fg_color
+    text[SELECTED]    = @selected_fg_color
+
+    engine "ia_ora" {
+       black_check=TRUE
+    }
+}
+
+
+########################################## MENUBAR #######################################
+style "menubar" #7 like theme
+{
+  fg[NORMAL] =  "#223244"
+  text[NORMAL] = "#223244"
+  text[PRELIGHT]= "#223244"
+  fg[PRELIGHT] = "#FCFCFC"
+  fg[ACTIVE] = "#223244"
+
+  xthickness			= 1
+  ythickness			= 0
+
+	engine "pixmap"
+	{
+		image
+		{
+			function	= BOX
+			state = NORMAL
+			file		= "Menu-Menubar/menubar.png"
+			border	= { 2, 2, 2, 2 }
+			stretch	= TRUE
+    		}
+
+		image
+		{
+			function	= BOX
+			state = ACTIVE
+			file		= "Menu-Menubar/menubar.png"
+			border	= { 2, 2, 2, 2 }
+			stretch	= TRUE
+    		}
+
+		image
+		{
+			function	= BOX
+			state = INSENSITIVE
+			file		= "Menu-Menubar/menubar.png"
+			border	= { 2, 2, 2, 2 }
+			stretch	= TRUE
+    		}
+
+		image
+		{
+			function			= BOX
+			recolorable		= TRUE
+			state = PRELIGHT
+			file				= "Menu-Menubar/menubar-item.png"
+			border			= { 10, 10, 10, 10 }
+			stretch			= TRUE
+		}
+
+ 	}
+}
+
+style "menubar-blue"
+{
+  fg[NORMAL] = "#ffffff"
+  text[NORMAL] = "#ffffff"
+  fg[PRELIGHT] = "#ffffff"
+  fg[ACTIVE] = "#ffffff"
+
+  xthickness			= 1
+  ythickness			= 1
+
+	engine "pixmap"
+	{
+		image
+		{
+			function	= BOX
+			state = NORMAL
+			file		= "Menu-Menubar/menubar-blue.png"
+			border	= { 2, 2, 2, 2 }
+			stretch	= TRUE
+    		}
+
+		image
+		{
+			function	= BOX
+			state = ACTIVE
+			file		= "Menu-Menubar/menubar-blue.png"
+			border	= { 2, 2, 2, 2 }
+			stretch	= TRUE
+    		}
+
+		image
+		{
+			function	= BOX
+			state = INSENSITIVE
+			file		= "Menu-Menubar/menubar-blue.png"
+			border	= { 2, 2, 2, 2 }
+			stretch	= TRUE
+    		}
+
+		image
+		{
+			function			= BOX
+			recolorable		= TRUE
+			state = PRELIGHT
+			file				= "Menu-Menubar/menubar-item.png"
+			border			= { 10, 10, 10, 10 }
+			stretch			= TRUE
+		}
+
+ 	}
+}
+
+style "menubar-blue-green"		
+{
+  fg[NORMAL] = "#ffffff"
+  text[NORMAL] = "#ffffff"
+  fg[PRELIGHT] = "#ffffff"
+  fg[ACTIVE] = "#ffffff"
+
+  xthickness			= 1
+  ythickness			= 1
+
+	engine "pixmap"
+	{
+		image
+		{
+			function	= BOX
+			state = NORMAL
+			file		= "Menu-Menubar/menubar-blue-green.png"
+			border	= { 2, 2, 2, 2 }
+			stretch	= TRUE
+    		}
+
+		image
+		{
+			function	= BOX
+			state = ACTIVE
+			file		= "Menu-Menubar/menubar-blue-green.png"
+			border	= { 2, 2, 2, 2 }
+			stretch	= TRUE
+    		}
+
+		image
+		{
+			function	= BOX
+			state = INSENSITIVE
+			file		= "Menu-Menubar/menubar-blue-green.png"
+			border	= { 2, 2, 2, 2 }
+			stretch	= TRUE
+    		}
+
+		image
+		{
+			function			= BOX
+			recolorable		= TRUE
+			state = PRELIGHT
+			file				= "Menu-Menubar/menubar-item.png"
+			border			= { 10, 10, 10, 10 }
+			stretch			= TRUE
+		}
+
+ 	}
+}
+################################## END MENUBAR ###########################################
+
+style "PanelFrame"
+{
+  xthickness = 1
+  ythickness = 1
+}
+
+
+
+style "ia_ora-button" = "ia_ora-default"
+{
+  xthickness = 2
+  ythickness = 2
+}
+
+style "ia_ora-thin" = "ia_ora-default"
+{
+  xthickness = 1
+  ythickness = 1
+}
+
+style "ia_ora-tasklist" = "ia_ora-default"
+{
+  xthickness = 2
+  ythickness = 2
+  GtkWidget::focus-line-width = 0
+  GtkWidget::focus-padding = 0
+}
+
+style "ia_ora-comboboxtext" = "ia_ora-default"
+{
+  text[PRELIGHT] = @fg_color
+  text[NORMAL]       = @fg_color
+}
+
+style "ia_ora-tooltips" = "ia_ora-default"
+{
+  bg[NORMAL] = @tooltip_bg_color
+  fg[NORMAL] = @tooltip_fg_color
+}
+
+style "ia_ora-tree" = "ia_ora-default"
+{
+  bg[ACTIVE] = @blue1
+}
+
+
+
+#Included Styles
+include	"Styles/terminal"
+include	"Styles/treeview"
+include	"Styles/listheader"
+include	"Styles/notebook"
+include	"Styles/menu-menubar"
+include	"Styles/toolbar"
+include	"Styles/entry"
+include	"Styles/range"
+include	"Styles/progressbar"
+include	"Styles/scrollbar"
+include	"Styles/spin"
+include	"Styles/combo"
+include	"Styles/optionmenu"
+include	"Styles/tooltips"
+include	"Styles/panel"
+include	"Styles/inactivetext"
+#include	"Styles/statusbar"
+#include	"Styles/button"
+#include	"Styles/handlebox"
+#include	"Styles/checkbutton"
+#include	"Styles/radiobutton"
+
+
+
+# widget styles
+class "GtkTreeView*" 			style "gtktreeview"
+widget_class "*GtkCList*" 		style "list-header"
+widget_class "*GtkTree*" 		style "progressbar"
+
+# Treeview header
+widget_class "*.<GtkTreeView>.<GtkButton>" 	style "list-header"
+widget_class "*.<GtkCTree>.<GtkButton>"    	style "list-header"
+widget_class "*.<GtkList>.<GtkButton>"     	style "list-header"
+widget_class "*.<GtkCList>.<GtkButton>"    	style "list-header"
+
+# Workarounds for Evolution
+widget_class "*.ETable.ECanvas"    		style "list-header"
+widget_class "*.ETree.ECanvas"    		style "list-header"
+
+
+class "GtkRange"       				style "range"
+class "GtkSpinButton"   	 		style "spinbutton"
+
+class "GtkNotebook" 				style "notebook"
+widget_class "*<GtkNotebook>"    		style "notebook"
+widget_class "*<GtkNotebook>*<GtkEventBox>"	style "notebook"
+widget_class "*<GtkNotebook>.GtkLabel*" 	style "notebook" #for tabs
+
+class "GtkOptionMenu"			style "optionmenu"
+class "GtkComboBox"			style "optionmenu"
+#widget_class "*GtkComboBox.GtkCellView" style "ComboButton"#"ia_ora-comboboxtext"
+widget_class "*GtkCombo.*Button*" 	style "ComboButton"
+
+class "GtkComboBoxEntry*"		style "ComboBox"
+class "GtkCombo*"      			style "ComboBox"
+class "*Font*"      			style "ComboBox"
+widget_class "*Combo*Entry*"    	style "ComboBox"
+
+class "GtkEntry"           		style "entry"
+class "GtkOldEditable" 			style "entry"
+
+class "GtkScrollbar"					style "scrollbar"
+widget_class "*Scrollbar" 				style "scrollbar"
+
+class "PanelAppletFrame" 				style "panel-handle"
+widget "*PanelApplet*" 					style:highest  "panelbg"
+widget "*PanelWidget*" 					style:highest  "panelbg"
+
+class "GtkWidget" 					style "ia_ora-default"
+class "ECanvas" 					style "ia_ora-thin"
+class "GtkButton" 					style "ia_ora-button"
+
+class "EComboButton" 					style "ia_ora-thin"
+#widget_class "*Item.GtkAccelLabel" 			style "menu"#"ia_ora-menu"
+widget_class "*BaconCdSelection.GtkCellView" 		style "ia_ora-comboboxtext"
+widget_class "*GtkComboBox.GtkCellView" 		style "ia_ora-comboboxtext"
+widget_class "*NautilusBurnDriveSelection.GtkCellView" 	style "ia_ora-comboboxtext"
+widget_class "*Gimp*Combo*.GtkCellView" 		style "ia_ora-comboboxtext"
+widget_class "*.EShortcutsView.GtkButton"	 	style "ia_ora-thin"
+widget_class "*.GtkHTMLEmbedded.*GtkButton" 		style "ia_ora-thin"
+
+class "GtkScrolledWindow" 				style "ia_ora-thin"
+class "GtkProgressBar" 					style "progressbar"  #"ia_ora-bar" Progressbar's Style
+widget_class "*MenuItem*" 				style "menuitem" #"ia_ora-menu" Menuitem-style
+widget_class "*.PanelApplet.*" 				style "ia_ora-tasklist"
+widget "*.tasklist-button" 				style "ia_ora-tasklist"
+widget "gtk-tooltip*" 					style "ia_ora-tooltips" #Tooltip style
+widget_class "*GtkPathBar*" 				style "ia_ora-thin"
+
+
+widget_class "*ETable*" 				style "ia_ora-tree"
+################################## Menu & Menuitem Classes ##########################################
+class "GtkMenu"       					style "menu"
+class "GtkImageMenuItem"				style "menuitem"
+class "GtkMenuItem"           				style "menuitem"
+class "GtkTearoffMenuItem"				style "tearoffmenuitem"
+################################### Toolbar Classes   ###############################################
+class "*Toolbar"					style "toolbar"
+widget_class "*Toolbar"					style "toolbar"
+################################## Menubar Classess #################################################
+class "GtkMenuBar*"					style "menubar-blue"
+widget_class "*MenuBar.*" 				style "menubar-blue"
+
+widget_class "*Fixed*GtkMenuBar*"			style "menubar"
+widget_class "*E*GtkMenuBar*"				style "menubar-blue-green"
+widget_class "*Gimp*GtkMenuBar*"			style "menubar-blue-green"
+widget_class "*Nautilus*.GtkMenuBar*"			style "menubar-blue-green"
+################################## Panel Classess  ###################################################
+class "Panel*" 						style "PanelFrame"
+class "PanelToplevel*" 					style "panelbg"
+#widget_class "*Mail*" 					style "panelbg"
+widget_class "*notif*" 					style "panelbg"
+widget_class "*Notif*" 					style "panelbg"
+widget_class "Panel*GtkToggleButton"			style:highest "ia_ora-button"
+widget_class "*Panel*GtkButton" 			style:highest "ia_ora-button"#"panelbuttons-black"
+
+class "PanelApp*" 					style "panelbg"
+
+widget "*PanelWidget*" 					style "panelbuttons"
+widget "*PanelApplet*" 					style "panelbuttons"
+widget_class "*PanelButton*." 				style "panelbuttons"
+
+class "TerminalScreen"                                  style "terminal"
+
+
+#class "GtkHandleBox"    				style "handlebox"
+#class "GtkPaned"       				style "handlebox"
+
+widget "*IdoScaleMenuItem*" 				style "range"
+widget "*IdoEntryMenuItem*" 				style "entry"
+widget_class "*<GtkNotebook>*<GtkViewport>"		style "notebook"
+
+#widget_class "*<GtkButton>"      			style "button"
+
+widget_class "*<GtkProgress>"				style "progressbar"
+#widget "*fast-user-switch*"				style "panelbg" # workaround for Fast User Switch applet
+class "PanelApp*" 					style "panelbg"
+
+widget_class "*notif*"					style "panelbg"
+widget_class "*Notif*"					style "panelbg"
+
+widget "*Xfce*Panel*"					style "panelbg"
+class "*Xfce*Panel*"					style "panelbg"
+widget_class "*Nautilus*Tool*GtkButton"			style "nautilustoolbuttons"
+widget_class "*Nautilus*Tool*GtkToggleButton" 		style "nautilustoolbuttons"
+
+
+
+# Nautilus sidebar
+#widget_class "*Nautilus*Places*Sidebar*"    		style "nautilus-sidebar"
+#widget_class "*Nautilus*Side*.GtkWidget"    		style "nautilus-sidebar"

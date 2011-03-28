@@ -1,0 +1,147 @@
+style "optionmenu"		= "default"
+{
+
+  engine "pixmap"
+  {
+    image
+    {
+      function			= BOX
+      recolorable		= TRUE
+      state				= PRELIGHT
+      file				= "ComboBox/combo-prelight.png"
+      border			= { 5, 5, 5, 5}
+      stretch			= TRUE
+    }
+
+    image
+    {
+      function			= BOX
+      recolorable		= TRUE
+      state				= NORMAL
+      file				= "ComboBox/combo-normal.png"
+      border			= { 5, 5, 5, 5}
+      stretch			= TRUE
+    }
+
+  image
+    {
+      function			= BOX
+      recolorable		= TRUE
+      state				= ACTIVE
+      file				= "ComboBox/combo-pressed.png"
+      border			= { 5, 5, 5, 5}
+      stretch			= TRUE
+    }
+ image
+    {
+      function			= BOX
+      recolorable		= TRUE
+      state				= INSENSITIVE
+      file				= "ComboBox/combo-inactive.png"
+      border			= { 5, 5, 5, 5}
+      stretch			= TRUE
+    }
+    image
+    {
+      function			= TAB
+      state				= INSENSITIVE
+      recolorable		= TRUE
+      overlay_file		= "ComboBox/combo-arrow-insens.png"
+      overlay_stretch	= FALSE
+    }
+    image
+    {
+      function				= TAB
+      recolorable			= TRUE
+      state					= NORMAL
+      overlay_file			= "ComboBox/combo-arrow.png"
+      overlay_border	= { 0, 0, 0, 0 }
+      overlay_stretch	= FALSE
+    }
+  image
+    {
+      function				= TAB
+      recolorable			= TRUE
+      state					= PRELIGHT
+      overlay_file			= "ComboBox/combo-arrow-prelight.png"
+      overlay_border	= { 0, 0, 0, 0 }
+      overlay_stretch	= FALSE
+    }
+
+
+
+    image
+    {
+      function				= ARROW
+      recolorable			= TRUE
+      overlay_file			= "Arrows/arrow-up.png"
+      overlay_border	= { 0, 0, 0, 0 }
+      overlay_stretch	= FALSE
+      arrow_direction	= UP
+    }
+    image
+    {
+      function				= ARROW
+      state				= NORMAL
+      recolorable			= TRUE
+      overlay_file			= "Arrows/arrow-down.png"
+      overlay_border	= { 0, 0, 0, 0 }
+      overlay_stretch	= FALSE
+      arrow_direction	= DOWN
+    }
+    image
+    {
+      function				= ARROW
+      state				= PRELIGHT
+      recolorable			= TRUE
+      overlay_file			= "Arrows/arrow-down-prelight.png"
+      overlay_border	= { 0, 0, 0, 0 }
+      overlay_stretch	= FALSE
+      arrow_direction	= DOWN
+    }
+    image
+    {
+      function				= ARROW
+      state				= ACTIVE
+      recolorable			= TRUE
+      overlay_file			= "Arrows/arrow-down-pressed.png"
+      overlay_border	= { 0, 0, 0, 0 }
+      overlay_stretch	= FALSE
+      arrow_direction	= DOWN
+    }
+
+    image
+    {
+      function				= ARROW
+      state				= INSENSITIVE
+      recolorable			= TRUE
+      overlay_file			= "Arrows/arrow-down-insens.png"
+      overlay_border	= { 0, 0, 0, 0 }
+      overlay_stretch	= FALSE
+      arrow_direction	= DOWN
+    }
+
+    image
+    {
+      function				= ARROW
+      recolorable			= TRUE
+      overlay_file			= "Arrows/arrow-left.png"
+      overlay_border	= { 0, 0, 0, 0 }
+      overlay_stretch	= FALSE
+      arrow_direction	= LEFT
+    }
+    image
+    {
+      function				= ARROW
+      recolorable			= TRUE
+      overlay_file			= "Arrows/arrow-right.png"
+      overlay_border	= { 0, 0, 0, 0 }
+      overlay_stretch	= FALSE
+      arrow_direction	= RIGHT
+    }
+
+
+
+
+  }
+}

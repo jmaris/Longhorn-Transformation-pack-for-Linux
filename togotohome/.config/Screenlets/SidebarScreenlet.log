@@ -1,0 +1,142 @@
+CachingBackend: Loading instances from cache
+No global tempdir found, creating new one.
+Temp directory /tmp/screenlets created.
+Creating new entry for SidebarScreenlet in /tmp/screenlets/screenlets.jordan.running
+Loading instances in: /home/jordan/.config/Screenlets/Sidebar/default/
+No instance(s) found in session-path, creating new one.
+/home/jordan/.config/Screenlets/Sidebar/default/Sidebar1
+LOAD NEW THEME: default
+FOUND: /usr/share/screenlets/Sidebar/themes/default
+Exception: 'Icon'
+An error occured with desktop-file: /usr/share/applications/mutter.desktop
+Exception: 'Categories'
+An error occured with desktop-file: /usr/share/applications/nautilus-autorun-software.desktop
+Exception: 'Categories'
+An error occured with desktop-file: /usr/share/applications/openjdk-6-java.desktop
+Exception: 'Categories'
+An error occured with desktop-file: /usr/share/applications/gnome-font-viewer.desktop
+Exception: 'Icon'
+An error occured with desktop-file: /usr/share/applications/mount-archive.desktop
+Exception: 'Categories'
+An error occured with desktop-file: /usr/share/applications/vinagre-file.desktop
+Exception: 'Icon'
+An error occured with desktop-file: /usr/share/applications/gnome-wm.desktop
+Exception: 'Categories'
+An error occured with desktop-file: /usr/share/applications/nautilus.desktop
+Exception: 'Icon'
+An error occured with desktop-file: /usr/share/applications/compiz.desktop
+Exception: 'Categories'
+An error occured with desktop-file: /usr/share/applications/nautilus-folder-handler.desktop
+Exception: 'Icon'
+An error occured with desktop-file: /usr/share/applications/gnome-shell.desktop
+Exception: 'Icon'
+An error occured with desktop-file: /usr/share/applications/metacity.desktop
+Exception: 'Categories'
+An error occured with desktop-file: /usr/share/applications/gmenu-simple-editor.desktop
+Screenlet: Set theme Transparent
+LOAD NEW THEME: Transparent
+FOUND: /usr/share/screenlets/Sidebar/themes/Transparent
+Screenlet: Set theme default
+LOAD NEW THEME: default
+FOUND: /usr/share/screenlets/Sidebar/themes/default
+(0, 0, 0, 1)
+1
+/home/jordan/.screenlets/Sidebar/themes
+Path /home/jordan/.screenlets/Sidebar/themes not found.
+/usr/share/screenlets/Sidebar/themes
+active theme is: default
+LOAD NEW THEME: Longhorn
+FOUND: /usr/share/screenlets/Sidebar/themes/Longhorn
+Button release
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+(0, 0, 0, 1)
+1
+/home/jordan/.screenlets/Sidebar/themes
+Path /home/jordan/.screenlets/Sidebar/themes not found.
+/usr/share/screenlets/Sidebar/themes
+active theme is: Longhorn
+Changed: size
+Changed: size
+Changed: size
+Changed: size
+Changed: size
+Changed: size
+Changed: size
+Changed: size
+Changed: size
+Changed: size
+Changed: size
+Changed: size
+Changed: size
+Changed: size
+Changed: size
+Changed: size
+Changed: size
+Changed: dock
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Button release
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Button release
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left
+Docking to right or left

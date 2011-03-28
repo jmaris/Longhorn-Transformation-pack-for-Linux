@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="applet_id_list" mtime="1301242083" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>show_desktop_button_screen0</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>applet_1</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>applet_2</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue>applet_0</stringvalue>
+		</li>
+	</entry>
+	<entry name="object_id_list" mtime="1301242083" type="list" ltype="string">
+	</entry>
+	<entry name="toplevel_id_list" mtime="1301242083" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>bottom_panel_screen0</stringvalue>
+		</li>
+	</entry>
+</gconf>

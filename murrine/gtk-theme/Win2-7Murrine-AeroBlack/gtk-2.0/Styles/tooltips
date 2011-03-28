@@ -1,0 +1,4 @@
+style "tooltips"	= "default"
+{
+  bg[NORMAL]		= "#5f5a5a"
+}

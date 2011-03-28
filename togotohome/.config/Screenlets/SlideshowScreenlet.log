@@ -1,0 +1,120 @@
+CachingBackend: Loading instances from cache
+Found a running session of Slideshow, adding new instance by service.
+Error in screenlets.services.get_service_by_name: org.freedesktop.DBus.Error.ServiceUnknown: The name org.screenlets.Slideshow was not provided by any .service files
+Screenlet has already been added to /tmp/screenlets/screenlets.jordan.running
+Loading instances in: /home/jordan/.config/Screenlets/Slideshow/default/
+No instance(s) found in session-path, creating new one.
+/home/jordan/.config/Screenlets/Slideshow/default/Slideshow1
+LOAD NEW THEME: default
+FOUND: /usr/share/screenlets/Slideshow/themes/default
+WARNING - add_default_menuitems and add_menuitems should be set in on_init ,menu values will be displayed incorrectly
+Screenlet has been initialized.
+/home/jordan/.screenlets/Slideshow/themes
+Path /home/jordan/.screenlets/Slideshow/themes not found.
+/usr/share/screenlets/Slideshow/themes
+active theme is: default
+Changed: frame
+Changed: preserve_aspect
+Changed: engine
+/home/jordan/.screenlets/Slideshow/themes
+Path /home/jordan/.screenlets/Slideshow/themes not found.
+/usr/share/screenlets/Slideshow/themes
+active theme is: default
+Changed: engine
+Changed: folders
+Changed: folders
+Changed: folders
+Changed: folders
+Changed: folders
+Changed: folders
+Changed: folders
+Changed: folders
+Changed: folders
+Changed: folders
+Changed: folders
+Changed: folders
+Changed: folders
+Changed: folders
+Changed: folders
+Changed: folders
+Changed: folders
+Changed: folders
+Changed: folders
+Changed: folders
+Changed: folders
+Changed: folders
+Changed: folders
+/home/jordan/.screenlets/Slideshow/themes
+Path /home/jordan/.screenlets/Slideshow/themes not found.
+/usr/share/screenlets/Slideshow/themes
+active theme is: default
+/home/jordan/.screenlets/Slideshow/themes
+Path /home/jordan/.screenlets/Slideshow/themes not found.
+/usr/share/screenlets/Slideshow/themes
+active theme is: default
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: engine
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+Changed: update_interval
+/home/jordan/.screenlets/Slideshow/themes
+Path /home/jordan/.screenlets/Slideshow/themes not found.
+/usr/share/screenlets/Slideshow/themes
+active theme is: default
+Changed: preserve_aspect

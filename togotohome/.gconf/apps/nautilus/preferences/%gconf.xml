@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="navigation_window_saved_maximized" mtime="1301243706" type="bool" value="false"/>
+	<entry name="navigation_window_saved_geometry" mtime="1301243706" type="string">
+		<stringvalue>800x550+0+0</stringvalue>
+	</entry>
+	<entry name="start_with_menubar" mtime="1301242929" type="bool" value="false"/>
+	<entry name="start_with_sidebar" mtime="1301242929" type="bool" value="false"/>
+	<entry name="sidebar_cat_network_expander" mtime="1301242926" type="bool" value="true"/>
+	<entry name="sidebar_cat_devices_expander" mtime="1301242926" type="bool" value="true"/>
+	<entry name="sidebar_cat_personal_expander" mtime="1301242926" type="bool" value="true"/>
+</gconf>

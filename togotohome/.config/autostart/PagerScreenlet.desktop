@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=PagerScreenlet
+Encoding=UTF-8
+Version=1.0
+Type=Application
+Exec= python -u /usr/share/screenlets/Pager/PagerScreenlet.py
+X-GNOME-Autostart-enabled=true

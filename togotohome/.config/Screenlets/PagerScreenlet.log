@@ -1,0 +1,1699 @@
+CachingBackend: Loading instances from cache
+CachingBackend: Loading <Pager1>
+Found a running session of Pager, adding new instance by service.
+Error in screenlets.services.get_service_by_name: org.freedesktop.DBus.Error.ServiceUnknown: The name org.screenlets.Pager was not provided by any .service files
+Screenlet has already been added to /tmp/screenlets/screenlets.jordan.running
+Loading instances in: /home/jordan/.config/Screenlets/Pager/default/
+File: Pager1.ini
+/home/jordan/.config/Screenlets/Pager/default/Pager1
+LOAD NEW THEME: default
+FOUND: /usr/share/screenlets/Pager/themes/default
+Set options in PagerScreenlet
+LOAD NEW THEME: default
+FOUND: /usr/share/screenlets/Pager/themes/default
+Screenlet has been initialized.
+Restored instances from session 'default' ...
+window_closed: <wnck.Window object at 0x91a23ec (WnckWindow at 0x92655e8)>
+115.555555556
+156
+ Click on viewport x : 2
+ Click on viewport y : 2
+viewports_changed
+window_closed: <wnck.Window object at 0x91a2be4 (WnckWindow at 0x92652a0)>
+viewports_changed
+viewports_changed
+window_closed: <wnck.Window object at 0x91a2a7c (WnckWindow at 0x9273000)>
+name_changed
+icon_changed
+window_closed: <wnck.Window object at 0x91a2a7c (WnckWindow at 0x92730a8)>
+window_closed: <wnck.Window object at 0x91a2be4 (WnckWindow at 0x9265738)>
+104.444444444
+156
+ Click on viewport x : 2
+ Click on viewport y : 2
+viewports_changed
+104.444444444
+156
+ Click on viewport x : 2
+ Click on viewport y : 2
+104.444444444
+156
+ Click on viewport x : 2
+ Click on viewport y : 2
+40.0
+156
+ Click on viewport x : 1
+ Click on viewport y : 1
+viewports_changed
+window_closed: <wnck.Window object at 0x91a2be4 (WnckWindow at 0x9273150)>
+window_closed: <wnck.Window object at 0x91a2be4 (WnckWindow at 0x92653f0)>
+window_closed: <wnck.Window object at 0x91a2be4 (WnckWindow at 0x9265540)>
+window_closed: <wnck.Window object at 0x91a2be4 (WnckWindow at 0x9265498)>
+window_closed: <wnck.Window object at 0x91a2be4 (WnckWindow at 0x9265348)>
+30.0
+156
+ Click on viewport x : 1
+ Click on viewport y : 1
+108.888888889
+156
+ Click on viewport x : 2
+ Click on viewport y : 1
+viewports_changed
+117.777777778
+156
+ Click on viewport x : 2
+ Click on viewport y : 2
+viewports_changed
+47.7777777778
+156
+ Click on viewport x : 1
+ Click on viewport y : 2
+viewports_changed
+43.3333333333
+156
+ Click on viewport x : 1
+ Click on viewport y : 1
+viewports_changed
+state_changed: <flags WNCK_WINDOW_STATE_SKIP_PAGER | WNCK_WINDOW_STATE_SKIP_TASKLIST | WNCK_WINDOW_STATE_STICKY | WNCK_WINDOW_STATE_ABOVE of type WnckWindowState>
+window_closed: <wnck.Window object at 0x91a2be4 (WnckWindow at 0x9265498)>
+state_changed: <flags WNCK_WINDOW_STATE_SKIP_PAGER | WNCK_WINDOW_STATE_SKIP_TASKLIST | WNCK_WINDOW_STATE_STICKY | WNCK_WINDOW_STATE_ABOVE of type WnckWindowState>
+window_closed: <wnck.Window object at 0x91a2e14 (WnckWindow at 0x9265738)>
+state_changed: <flags WNCK_WINDOW_STATE_SKIP_PAGER | WNCK_WINDOW_STATE_SKIP_TASKLIST | WNCK_WINDOW_STATE_STICKY | WNCK_WINDOW_STATE_ABOVE of type WnckWindowState>
+55.5555555556
+156
+ Click on viewport x : 1
+ Click on viewport y : 2
+viewports_changed
+123.333333333
+156
+ Click on viewport x : 2
+ Click on viewport y : 2
+viewports_changed
+58.8888888889
+156
+ Click on viewport x : 1
+ Click on viewport y : 1
+viewports_changed
+67.7777777778
+156
+ Click on viewport x : 1
+ Click on viewport y : 2
+viewports_changed
+58.8888888889
+156
+ Click on viewport x : 1
+ Click on viewport y : 1
+viewports_changed
+34.4444444444
+156
+ Click on viewport x : 1
+ Click on viewport y : 2
+viewports_changed
+window_closed: <wnck.Window object at 0x91a602c (WnckWindow at 0x9273000)>
+17.7777777778
+156
+ Click on viewport x : 1
+ Click on viewport y : 1
+viewports_changed
+window_closed: <wnck.Window object at 0x91a602c (WnckWindow at 0x92652a0)>
+window_closed: <wnck.Window object at 0x91a6054 (WnckWindow at 0x92655e8)>
+window_closed: <wnck.Window object at 0x91a616c (WnckWindow at 0x9273000)>
+window_closed: <wnck.Window object at 0x91a6144 (WnckWindow at 0x92652a0)>
+window_closed: <wnck.Window object at 0x91a6144 (WnckWindow at 0x9265738)>
+window_closed: <wnck.Window object at 0x91a602c (WnckWindow at 0x92655e8)>
+window_closed: <wnck.Window object at 0x91a62fc (WnckWindow at 0x9265498)>
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+window_closed: <wnck.Window object at 0x91a2eb4 (WnckWindow at 0x9273150)>
+window_closed: <wnck.Window object at 0x91a2e14 (WnckWindow at 0x92730a8)>
+window_closed: <wnck.Window object at 0x91a2e64 (WnckWindow at 0x92653f0)>
+window_closed: <wnck.Window object at 0x91a2be4 (WnckWindow at 0x9265540)>
+state_changed: <flags WNCK_WINDOW_STATE_SKIP_PAGER | WNCK_WINDOW_STATE_SKIP_TASKLIST | WNCK_WINDOW_STATE_STICKY | WNCK_WINDOW_STATE_ABOVE of type WnckWindowState>
+state_changed: <flags WNCK_WINDOW_STATE_SKIP_PAGER | WNCK_WINDOW_STATE_SKIP_TASKLIST | WNCK_WINDOW_STATE_STICKY | WNCK_WINDOW_STATE_DEMANDS_ATTENTION | WNCK_WINDOW_STATE_ABOVE of type WnckWindowState>
+window_closed: <wnck.Window object at 0x91a2e64 (WnckWindow at 0x92731f8)>
+state_changed: <flags WNCK_WINDOW_STATE_SKIP_PAGER | WNCK_WINDOW_STATE_SKIP_TASKLIST | WNCK_WINDOW_STATE_STICKY | WNCK_WINDOW_STATE_ABOVE of type WnckWindowState>
+window_closed: <wnck.Window object at 0x91a2be4 (WnckWindow at 0x9273150)>
+state_changed: <flags WNCK_WINDOW_STATE_SKIP_PAGER | WNCK_WINDOW_STATE_SKIP_TASKLIST | WNCK_WINDOW_STATE_STICKY | WNCK_WINDOW_STATE_ABOVE of type WnckWindowState>
+window_closed: <wnck.Window object at 0x91a6234 (WnckWindow at 0x9265738)>
+name_changed
+icon_changed
+window_closed: <wnck.Window object at 0x91a62d4 (WnckWindow at 0x9273000)>
+state_changed: <flags 0 of type WnckWindowState>
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+107.777777778
+156
+ Click on viewport x : 2
+ Click on viewport y : 1
+viewports_changed
+94.4444444444
+156
+ Click on viewport x : 2
+ Click on viewport y : 2
+viewports_changed
+Button release
+98.8888888889
+156
+ Click on viewport x : 2
+ Click on viewport y : 1
+viewports_changed
+window_closed: <wnck.Window object at 0x91a6374 (WnckWindow at 0x92650a8)>
+102.222222222
+156
+ Click on viewport x : 2
+ Click on viewport y : 2
+viewports_changed
+window_closed: <wnck.Window object at 0x91a62fc (WnckWindow at 0x92655e8)>
+30.0
+156
+ Click on viewport x : 1
+ Click on viewport y : 1
+viewports_changed
+window_closed: <wnck.Window object at 0x91a602c (WnckWindow at 0x9265348)>
+window_closed: <wnck.Window object at 0x91a6234 (WnckWindow at 0x92652a0)>
+window_closed: <wnck.Window object at 0x91a62d4 (WnckWindow at 0x9273000)>
+window_closed: <wnck.Window object at 0x91a643c (WnckWindow at 0x9265738)>
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a6374 (WnckWindow at 0x92731f8)>
+window_closed: <wnck.Window object at 0x91a62d4 (WnckWindow at 0x9273150)>
+viewports_changed
+window_closed: <wnck.Window object at 0x91a62d4 (WnckWindow at 0x92732a0)>
+name_changed
+name_changed
+icon_changed
+window_closed: <wnck.Window object at 0x91a6234 (WnckWindow at 0x92732a0)>
+viewports_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a6234 (WnckWindow at 0x9273150)>
+window_closed: <wnck.Window object at 0x91a6234 (WnckWindow at 0x92731f8)>
+window_closed: <wnck.Window object at 0x91a62d4 (WnckWindow at 0x9273348)>
+window_closed: <wnck.Window object at 0x91a62d4 (WnckWindow at 0x9265738)>
+window_closed: <wnck.Window object at 0x91a62d4 (WnckWindow at 0x9273000)>
+window_closed: <wnck.Window object at 0x91a62d4 (WnckWindow at 0x92652a0)>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a6234 (WnckWindow at 0x92655e8)>
+name_changed
+name_changed
+name_changed
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+name_changed
+icon_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a62fc (WnckWindow at 0x92652a0)>
+window_closed: <wnck.Window object at 0x91a639c (WnckWindow at 0x92655e8)>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_DEMANDS_ATTENTION of type WnckWindowState>
+name_changed
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+state_changed: <flags 0 of type WnckWindowState>
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+name_changed
+window_closed: <wnck.Window object at 0x91a639c (WnckWindow at 0x9273000)>
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_URGENT of type WnckWindowState>
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_STICKY | WNCK_WINDOW_STATE_HIDDEN | WNCK_WINDOW_STATE_URGENT of type WnckWindowState>
+state_changed: <flags WNCK_WINDOW_STATE_STICKY | WNCK_WINDOW_STATE_URGENT of type WnckWindowState>
+state_changed: <flags WNCK_WINDOW_STATE_STICKY of type WnckWindowState>
+state_changed: <flags 0 of type WnckWindowState>
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+window_closed: <wnck.Window object at 0x91a639c (WnckWindow at 0x9265738)>
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+name_changed
+icon_changed
+window_closed: <wnck.Window object at 0x91a639c (WnckWindow at 0x9273348)>
+window_closed: <wnck.Window object at 0x91a639c (WnckWindow at 0x9273150)>
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+window_closed: <wnck.Window object at 0x91a6414 (WnckWindow at 0x9273348)>
+name_changed
+icon_changed
+window_closed: <wnck.Window object at 0x91a6414 (WnckWindow at 0x9265738)>
+state_changed: <flags 0 of type WnckWindowState>
+window_closed: <wnck.Window object at 0x91a6414 (WnckWindow at 0x9273000)>
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a6374 (WnckWindow at 0x9273150)>
+window_closed: <wnck.Window object at 0x91a6374 (WnckWindow at 0x92655e8)>
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+window_closed: <wnck.Window object at 0x91a6504 (WnckWindow at 0x9273150)>
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+name_changed
+icon_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+name_changed
+name_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+name_changed
+name_changed
+icon_changed
+icon_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x919d874 (WnckWindow at 0x9265738)>
+icon_changed
+name_changed
+name_changed
+name_changed
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_SKIP_TASKLIST | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+icon_changed
+icon_changed
+state_changed: <flags 0 of type WnckWindowState>
+state_changed: <flags WNCK_WINDOW_STATE_SKIP_TASKLIST of type WnckWindowState>
+icon_changed
+icon_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a6554 (WnckWindow at 0x9273348)>
+window_closed: <wnck.Window object at 0x91a6554 (WnckWindow at 0x9273348)>
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x9273348)>
+icon_changed
+icon_changed
+window_closed: <wnck.Window object at 0x919d89c (WnckWindow at 0x9273150)>
+icon_changed
+icon_changed
+icon_changed
+window_closed: <wnck.Window object at 0x91a6554 (WnckWindow at 0x9265738)>
+window_closed: <wnck.Window object at 0x91a6504 (WnckWindow at 0x9273000)>
+window_closed: <wnck.Window object at 0x91a652c (WnckWindow at 0x92655e8)>
+window_closed: <wnck.Window object at 0x91a6374 (WnckWindow at 0x92652a0)>
+window_closed: <wnck.Window object at 0x91a652c (WnckWindow at 0x92655e8)>
+window_closed: <wnck.Window object at 0x919d89c (WnckWindow at 0x92652a0)>
+window_closed: <wnck.Window object at 0x919d89c (WnckWindow at 0x9273000)>
+window_closed: <wnck.Window object at 0x919d89c (WnckWindow at 0x9265738)>
+window_closed: <wnck.Window object at 0x91a652c (WnckWindow at 0x9273348)>
+window_closed: <wnck.Window object at 0x919d89c (WnckWindow at 0x9273150)>
+window_closed: <wnck.Window object at 0x91a652c (WnckWindow at 0x9273348)>
+icon_changed
+icon_changed
+window_closed: <wnck.Window object at 0x919d89c (WnckWindow at 0x9273150)>
+window_closed: <wnck.Window object at 0x91a652c (WnckWindow at 0x9273000)>
+window_closed: <wnck.Window object at 0x919d89c (WnckWindow at 0x9265738)>
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a652c (WnckWindow at 0x92655e8)>
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+window_closed: <wnck.Window object at 0x919d89c (WnckWindow at 0x92652a0)>
+name_changed
+icon_changed
+icon_changed
+icon_changed
+name_changed
+window_closed: <wnck.Window object at 0x919d89c (WnckWindow at 0x92652a0)>
+window_closed: <wnck.Window object at 0x919d89c (WnckWindow at 0x92655e8)>
+window_closed: <wnck.Window object at 0x919d89c (WnckWindow at 0x9265738)>
+name_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+window_closed: <wnck.Window object at 0x91a652c (WnckWindow at 0x9273150)>
+window_closed: <wnck.Window object at 0x919d89c (WnckWindow at 0x9273000)>
+icon_changed
+icon_changed
+window_closed: <wnck.Window object at 0x91a652c (WnckWindow at 0x9273000)>
+window_closed: <wnck.Window object at 0x919d89c (WnckWindow at 0x9273348)>
+name_changed
+window_closed: <wnck.Window object at 0x919d89c (WnckWindow at 0x9273150)>
+name_changed
+icon_changed
+icon_changed
+icon_changed
+window_closed: <wnck.Window object at 0x91a652c (WnckWindow at 0x92655e8)>
+icon_changed
+icon_changed
+icon_changed
+window_closed: <wnck.Window object at 0x919d89c (WnckWindow at 0x9265738)>
+icon_changed
+icon_changed
+icon_changed
+window_closed: <wnck.Window object at 0x919d89c (WnckWindow at 0x92652a0)>
+name_changed
+icon_changed
+window_closed: <wnck.Window object at 0x91a661c (WnckWindow at 0x92655e8)>
+window_closed: <wnck.Window object at 0x91a661c (WnckWindow at 0x9273150)>
+window_closed: <wnck.Window object at 0x91a652c (WnckWindow at 0x9265738)>
+window_closed: <wnck.Window object at 0x91a652c (WnckWindow at 0x9273348)>
+icon_changed
+icon_changed
+icon_changed
+window_closed: <wnck.Window object at 0x91a652c (WnckWindow at 0x9273000)>
+icon_changed
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a652c (WnckWindow at 0x9273000)>
+window_closed: <wnck.Window object at 0x91a652c (WnckWindow at 0x9273348)>
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x9273150)>
+name_changed
+name_changed
+icon_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a661c (WnckWindow at 0x9273150)>
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a661c (WnckWindow at 0x9273348)>
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a661c (WnckWindow at 0x9273000)>
+window_closed: <wnck.Window object at 0x91a661c (WnckWindow at 0x9273000)>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a661c (WnckWindow at 0x9273348)>
+name_changed
+name_changed
+icon_changed
+name_changed
+name_changed
+icon_changed
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+window_closed: <wnck.Window object at 0x919d89c (WnckWindow at 0x92652a0)>
+window_closed: <wnck.Window object at 0x91a652c (WnckWindow at 0x9265738)>
+window_closed: <wnck.Window object at 0x91a6234 (WnckWindow at 0x92650a8)>
+window_closed: <wnck.Window object at 0x91a639c (WnckWindow at 0x92732a0)>
+window_closed: <wnck.Window object at 0x919d89c (WnckWindow at 0x9273150)>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x92655e8)>
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x92732a0)>
+name_changed
+icon_changed
+name_changed
+name_changed
+icon_changed
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x92650a8)>
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x9265738)>
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x92652a0)>
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x9273348)>
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x9273000)>
+name_changed
+icon_changed
+name_changed
+icon_changed
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x9273000)>
+name_changed
+icon_changed
+window_closed: <wnck.Window object at 0x919d89c (WnckWindow at 0x9273150)>
+name_changed
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+window_closed: <wnck.Window object at 0x919d89c (WnckWindow at 0x9273348)>
+name_changed
+icon_changed
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x92650a8)>
+icon_changed
+icon_changed
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x9265738)>
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x92732a0)>
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x92655e8)>
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x92655e8)>
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x92732a0)>
+window_closed: <wnck.Window object at 0x91a639c (WnckWindow at 0x9273348)>
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x92650a8)>
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x9273150)>
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x9265738)>
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x9273000)>
+name_changed
+name_changed
+icon_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x9273000)>
+window_closed: <wnck.Window object at 0x919d89c (WnckWindow at 0x92652a0)>
+name_changed
+icon_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x9273150)>
+name_changed
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x92650a8)>
+window_closed: <wnck.Window object at 0x919d89c (WnckWindow at 0x9265738)>
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x919d89c (WnckWindow at 0x9273348)>
+name_changed
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x919d89c (WnckWindow at 0x92732a0)>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+icon_changed
+name_changed
+name_changed
+name_changed
+icon_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+icon_changed
+window_closed: <wnck.Window object at 0x919d89c (WnckWindow at 0x92655e8)>
+name_changed
+icon_changed
+name_changed
+window_closed: <wnck.Window object at 0x919d89c (WnckWindow at 0x92655e8)>
+window_closed: <wnck.Window object at 0x919d89c (WnckWindow at 0x92732a0)>
+name_changed
+name_changed
+icon_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x919d89c (WnckWindow at 0x9273348)>
+name_changed
+icon_changed
+window_closed: <wnck.Window object at 0x91a67fc (WnckWindow at 0x9273150)>
+window_closed: <wnck.Window object at 0x91a67fc (WnckWindow at 0x92651f8)>
+window_closed: <wnck.Window object at 0x919d89c (WnckWindow at 0x92650a8)>
+name_changed
+icon_changed
+window_closed: <wnck.Window object at 0x91a6374 (WnckWindow at 0x92651f8)>
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+window_closed: <wnck.Window object at 0x91a639c (WnckWindow at 0x92650a8)>
+window_closed: <wnck.Window object at 0x91a639c (WnckWindow at 0x9273150)>
+name_changed
+name_changed
+icon_changed
+window_closed: <wnck.Window object at 0x91a639c (WnckWindow at 0x9273348)>
+name_changed
+icon_changed
+icon_changed
+icon_changed
+window_closed: <wnck.Window object at 0x91a639c (WnckWindow at 0x92732a0)>
+window_closed: <wnck.Window object at 0x91a67fc (WnckWindow at 0x9273000)>
+name_changed
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x9265738)>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+window_closed: <wnck.Window object at 0x91a67fc (WnckWindow at 0x9265738)>
+name_changed
+name_changed
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+name_changed
+window_closed: <wnck.Window object at 0x91a6234 (WnckWindow at 0x9273348)>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a6234 (WnckWindow at 0x9273150)>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a6234 (WnckWindow at 0x92650a8)>
+window_closed: <wnck.Window object at 0x91a6234 (WnckWindow at 0x92651f8)>
+window_closed: <wnck.Window object at 0x91a639c (WnckWindow at 0x92650a8)>
+window_closed: <wnck.Window object at 0x91a6234 (WnckWindow at 0x92651f8)>
+name_changed
+state_changed: <flags 0 of type WnckWindowState>
+state_changed: <flags 0 of type WnckWindowState>
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+state_changed: <flags 0 of type WnckWindowState>
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+name_changed
+name_changed
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a6554 (WnckWindow at 0x9273348)>
+name_changed
+icon_changed
+name_changed
+icon_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x92732a0)>
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x9265738)>
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x9265738)>
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x92732a0)>
+window_closed: <wnck.Window object at 0x91a652c (WnckWindow at 0x92732a0)>
+window_closed: <wnck.Window object at 0x91a661c (WnckWindow at 0x92650a8)>
+window_closed: <wnck.Window object at 0x91a6554 (WnckWindow at 0x92651f8)>
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a6504 (WnckWindow at 0x92651f8)>
+window_closed: <wnck.Window object at 0x91a67fc (WnckWindow at 0x9273000)>
+state_changed: <flags 0 of type WnckWindowState>
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a6554 (WnckWindow at 0x9265738)>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a6234 (WnckWindow at 0x9273150)>
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x9273348)>
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_FULLSCREEN of type WnckWindowState>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x92650a8)>
+window_closed: <wnck.Window object at 0x91a62d4 (WnckWindow at 0x9265348)>
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x92732a0)>
+state_changed: <flags 0 of type WnckWindowState>
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x92732a0)>
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MAXIMIZED_HORIZONTALLY | WNCK_WINDOW_STATE_MAXIMIZED_VERTICALLY of type WnckWindowState>
+state_changed: <flags 0 of type WnckWindowState>
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x9265348)>
+name_changed
+icon_changed
+icon_changed
+state_changed: <flags 0 of type WnckWindowState>
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x92650a8)>
+name_changed
+name_changed
+name_changed
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+viewports_changed
+icon_changed
+icon_changed
+icon_changed
+name_changed
+icon_changed
+viewports_changed
+viewports_changed
+name_changed
+icon_changed
+icon_changed
+icon_changed
+window_closed: <wnck.Window object at 0x91a67fc (WnckWindow at 0x9265738)>
+viewports_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a67fc (WnckWindow at 0x9273000)>
+window_closed: <wnck.Window object at 0x91a6554 (WnckWindow at 0x9273150)>
+window_closed: <wnck.Window object at 0x91a67fc (WnckWindow at 0x92651f8)>
+viewports_changed
+window_closed: <wnck.Window object at 0x91a6824 (WnckWindow at 0x9273150)>
+window_closed: <wnck.Window object at 0x91a67fc (WnckWindow at 0x92651f8)>
+state_changed: <flags 0 of type WnckWindowState>
+window_closed: <wnck.Window object at 0x91a6824 (WnckWindow at 0x9273000)>
+viewports_changed
+viewports_changed
+viewports_changed
+state_changed: <flags 0 of type WnckWindowState>
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+icon_changed
+name_changed
+icon_changed
+icon_changed
+icon_changed
+name_changed
+name_changed
+name_changed
+name_changed
+icon_changed
+name_changed
+name_changed
+name_changed
+icon_changed
+icon_changed
+icon_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+name_changed
+name_changed
+icon_changed
+icon_changed
+icon_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a6824 (WnckWindow at 0x9265738)>
+window_closed: <wnck.Window object at 0x91a6824 (WnckWindow at 0x92650a8)>
+name_changed
+icon_changed
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+state_changed: <flags 0 of type WnckWindowState>
+icon_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a62d4 (WnckWindow at 0x9265348)>
+name_changed
+icon_changed
+name_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+name_changed
+icon_changed
+icon_changed
+name_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+name_changed
+name_changed
+icon_changed
+name_changed
+icon_changed
+icon_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+icon_changed
+icon_changed
+name_changed
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+name_changed
+name_changed
+icon_changed
+name_changed
+icon_changed
+name_changed
+icon_changed
+name_changed
+icon_changed
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x92655e8)>
+name_changed
+icon_changed
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x92732a0)>
+state_changed: <flags 0 of type WnckWindowState>
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+state_changed: <flags 0 of type WnckWindowState>
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+icon_changed
+icon_changed
+state_changed: <flags WNCK_WINDOW_STATE_MAXIMIZED_HORIZONTALLY | WNCK_WINDOW_STATE_MAXIMIZED_VERTICALLY of type WnckWindowState>
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_MAXIMIZED_HORIZONTALLY | WNCK_WINDOW_STATE_MAXIMIZED_VERTICALLY | WNCK_WINDOW_STATE_SHADED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+state_changed: <flags WNCK_WINDOW_STATE_MAXIMIZED_HORIZONTALLY | WNCK_WINDOW_STATE_MAXIMIZED_VERTICALLY of type WnckWindowState>
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+icon_changed
+icon_changed
+state_changed: <flags WNCK_WINDOW_STATE_DEMANDS_ATTENTION of type WnckWindowState>
+name_changed
+name_changed
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MAXIMIZED_HORIZONTALLY | WNCK_WINDOW_STATE_MAXIMIZED_VERTICALLY of type WnckWindowState>
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+icon_changed
+icon_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a6374 (WnckWindow at 0x92655e8)>
+icon_changed
+window_closed: <wnck.Window object at 0x91a6374 (WnckWindow at 0x9265348)>
+icon_changed
+window_closed: <wnck.Window object at 0x91a6374 (WnckWindow at 0x92650a8)>
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x92732a0)>
+name_changed
+icon_changed
+name_changed
+icon_changed
+icon_changed
+name_changed
+icon_changed
+name_changed
+icon_changed
+icon_changed
+name_changed
+icon_changed
+name_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+name_changed
+icon_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x9265738)>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x9273000)>
+name_changed
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x92651f8)>
+name_changed
+name_changed
+name_changed
+icon_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+icon_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x9273150)>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x9273150)>
+name_changed
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x92651f8)>
+name_changed
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x9273000)>
+name_changed
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x9265738)>
+name_changed
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x92732a0)>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+name_changed
+icon_changed
+icon_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+name_changed
+icon_changed
+name_changed
+icon_changed
+icon_changed
+name_changed
+icon_changed
+viewports_changed
+viewports_changed
+state_changed: <flags WNCK_WINDOW_STATE_DEMANDS_ATTENTION of type WnckWindowState>
+name_changed
+name_changed
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+viewports_changed
+viewports_changed
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x92650a8)>
+state_changed: <flags 0 of type WnckWindowState>
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x9265348)>
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x92655e8)>
+name_changed
+name_changed
+icon_changed
+name_changed
+icon_changed
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a6554 (WnckWindow at 0x92732a0)>
+name_changed
+icon_changed
+name_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+window_closed: <wnck.Window object at 0x91a6554 (WnckWindow at 0x9265738)>
+window_closed: <wnck.Window object at 0x91a6554 (WnckWindow at 0x9273000)>
+icon_changed
+icon_changed
+window_closed: <wnck.Window object at 0x91a6554 (WnckWindow at 0x92651f8)>
+icon_changed
+window_closed: <wnck.Window object at 0x91a6554 (WnckWindow at 0x9273150)>
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+window_closed: <wnck.Window object at 0x91a6554 (WnckWindow at 0x9273150)>
+icon_changed
+window_closed: <wnck.Window object at 0x91a6374 (WnckWindow at 0x9273000)>
+window_closed: <wnck.Window object at 0x91a6374 (WnckWindow at 0x9265738)>
+name_changed
+icon_changed
+window_closed: <wnck.Window object at 0x91a6554 (WnckWindow at 0x92651f8)>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a6554 (WnckWindow at 0x92732a0)>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+icon_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a6234 (WnckWindow at 0x9265348)>
+window_closed: <wnck.Window object at 0x91a6824 (WnckWindow at 0x92650a8)>
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x92655e8)>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+icon_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+icon_changed
+name_changed
+icon_changed
+name_changed
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_DEMANDS_ATTENTION of type WnckWindowState>
+name_changed
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a62d4 (WnckWindow at 0x92650a8)>
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x92655e8)>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+name_changed
+icon_changed
+icon_changed
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+name_changed
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+icon_changed
+icon_changed
+icon_changed
+icon_changed
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+name_changed
+name_changed
+icon_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x9265348)>
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x92732a0)>
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x92651f8)>
+name_changed
+name_changed
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MAXIMIZED_HORIZONTALLY | WNCK_WINDOW_STATE_MAXIMIZED_VERTICALLY of type WnckWindowState>
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+name_changed
+name_changed
+icon_changed
+icon_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x9265738)>
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x9273000)>
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+state_changed: <flags 0 of type WnckWindowState>
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+state_changed: <flags 0 of type WnckWindowState>
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+name_changed
+icon_changed
+icon_changed
+name_changed
+icon_changed
+icon_changed
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+name_changed
+name_changed
+name_changed
+icon_changed
+icon_changed
+name_changed
+name_changed
+icon_changed
+icon_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+name_changed
+name_changed
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+state_changed: <flags 0 of type WnckWindowState>
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x9273150)>
+name_changed
+name_changed
+name_changed
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+name_changed
+state_changed: <flags 0 of type WnckWindowState>
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+name_changed
+icon_changed
+icon_changed
+name_changed
+name_changed
+icon_changed
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+name_changed
+icon_changed
+name_changed
+icon_changed
+icon_changed
+name_changed
+name_changed
+icon_changed
+name_changed
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+name_changed
+state_changed: <flags 0 of type WnckWindowState>
+state_changed: <flags 0 of type WnckWindowState>
+window_closed: <wnck.Window object at 0x91a6824 (WnckWindow at 0x9273000)>
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x9273348)>
+name_changed
+name_changed
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+state_changed: <flags 0 of type WnckWindowState>
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x9265738)>
+state_changed: <flags 0 of type WnckWindowState>
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x92651f8)>
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+state_changed: <flags 0 of type WnckWindowState>
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x92732a0)>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x9265348)>
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x92655e8)>
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x92650a8)>
+name_changed
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x92650a8)>
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MAXIMIZED_HORIZONTALLY | WNCK_WINDOW_STATE_MAXIMIZED_VERTICALLY of type WnckWindowState>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x92655e8)>
+name_changed
+icon_changed
+name_changed
+name_changed
+icon_changed
+window_closed: <wnck.Window object at 0x91a6554 (WnckWindow at 0x92651f8)>
+window_closed: <wnck.Window object at 0x91a6824 (WnckWindow at 0x92732a0)>
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x9265348)>
+state_changed: <flags 0 of type WnckWindowState>
+state_changed: <flags WNCK_WINDOW_STATE_MAXIMIZED_HORIZONTALLY | WNCK_WINDOW_STATE_MAXIMIZED_VERTICALLY of type WnckWindowState>
+name_changed
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x9265738)>
+state_changed: <flags 0 of type WnckWindowState>
+state_changed: <flags WNCK_WINDOW_STATE_MAXIMIZED_HORIZONTALLY | WNCK_WINDOW_STATE_MAXIMIZED_VERTICALLY of type WnckWindowState>
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x9273348)>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+state_changed: <flags WNCK_WINDOW_STATE_DEMANDS_ATTENTION of type WnckWindowState>
+name_changed
+name_changed
+state_changed: <flags 0 of type WnckWindowState>
+window_closed: <wnck.Window object at 0x91a66e4 (WnckWindow at 0x9273000)>
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+name_changed
+state_changed: <flags WNCK_WINDOW_STATE_MINIMIZED | WNCK_WINDOW_STATE_HIDDEN of type WnckWindowState>
+state_changed: <flags WNCK_WINDOW_STATE_DEMANDS_ATTENTION of type WnckWindowState>
+name_changed
+name_changed
+state_changed: <flags 0 of type WnckWindowState>
+state_changed: <flags WNCK_WINDOW_STATE_MAXIMIZED_HORIZONTALLY | WNCK_WINDOW_STATE_MAXIMIZED_VERTICALLY of type WnckWindowState>
+name_changed
+icon_changed
+icon_changed
+state_changed: <flags 0 of type WnckWindowState>
+state_changed: <flags WNCK_WINDOW_STATE_MAXIMIZED_HORIZONTALLY | WNCK_WINDOW_STATE_MAXIMIZED_VERTICALLY of type WnckWindowState>
+state_changed: <flags 0 of type WnckWindowState>
+name_changed
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x9273150)>
+name_changed
+name_changed
+icon_changed
+icon_changed
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+viewports_changed
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x9273150)>
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x9273000)>
+viewports_changed
+viewports_changed
+viewports_changed
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x9273348)>
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x9265738)>
+window_closed: <wnck.Window object at 0x91a6874 (WnckWindow at 0x9265348)>
+name_changed
+icon_changed
+name_changed
+icon_changed
+name_changed
+icon_changed
+state_changed: <flags WNCK_WINDOW_STATE_SKIP_PAGER | WNCK_WINDOW_STATE_SKIP_TASKLIST | WNCK_WINDOW_STATE_STICKY | WNCK_WINDOW_STATE_ABOVE of type WnckWindowState>
